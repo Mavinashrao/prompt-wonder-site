@@ -137,13 +137,13 @@ function Portfolio() {
             <div data-reveal>
               <div className="inline-flex items-center gap-2 glass px-4 py-2 rounded-full mb-6">
                 <span className="h-2 w-2 rounded-full bg-accent animate-pulse" />
-                <span className="text-sm text-muted-foreground">Available for AI Engineer roles</span>
+                <span className="text-sm text-muted-foreground">Available for Gen AI Engineer roles</span>
               </div>
               <h1 className="text-5xl md:text-7xl font-bold leading-[1.05] mb-6">
                 M. Avinash <span className="text-gradient">Rao</span>
               </h1>
               <p className="text-xl md:text-2xl text-muted-foreground mb-5 font-display">
-                AI Engineer <span className="text-accent">/</span> Prompt Engineer <span className="text-accent">/</span> NLP Engineer
+                Gen AI Engineer <span className="text-accent">/</span> Prompt Engineer
               </p>
               <p className="text-base md:text-lg text-foreground/90 max-w-xl mb-8 leading-relaxed min-h-[3.5rem]">
                 {typed}<span className="inline-block w-[2px] h-5 bg-accent ml-1 align-middle animate-pulse" />
