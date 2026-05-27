@@ -11,9 +11,9 @@ import avinashPhoto from "@/assets/avinash.jpeg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "M. Avinash Rao — AI Engineer · Prompt Engineer · NLP Engineer" },
-      { name: "description", content: "Portfolio of M. Avinash Rao — AI Engineer specializing in LLMs, RAG pipelines, prompt engineering, and scalable Python AI systems." },
-      { property: "og:title", content: "M. Avinash Rao — AI Engineer" },
+      { title: "M. Avinash Rao — Gen AI Engineer · Prompt Engineer" },
+      { name: "description", content: "Portfolio of M. Avinash Rao — Gen AI Engineer specializing in LLMs, RAG pipelines, prompt engineering, and scalable Python AI systems." },
+      { property: "og:title", content: "M. Avinash Rao — Gen AI Engineer" },
       { property: "og:description", content: "Building intelligent AI systems with LLMs, RAG pipelines, and scalable Python architectures." },
     ],
   }),
